@@ -1,18 +1,14 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f0f0f0;
-}
+
 .gallery-container {
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 5rem auto;
     padding: 20px;
 }
 
 h1 {
     text-align: center;
     color: #333;
+    margin: 1rem;
 }
 
 .gallery {
